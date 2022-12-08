@@ -71,7 +71,7 @@ easy shopping from anywhere, the shops won’t be losing any more customers to t
     ```env
     REACT_APP_API_URL=YOUR_API_URL
     ```
-    ##### Instructions:
+    ##### Instruction:
     1. for mongodb atlas database creation follow this tutorial->https://www.youtube.com/watch?v=KKyag6t98g8
     2. you can use any random string as JWTSECRET
     3. for localhost REACT_APP_API_URL is http://localhost:5000/api
